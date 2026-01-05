@@ -1,0 +1,21 @@
+20
+ 1 diego almeida 19 72
+ 2 bruno alves 23 70
+ 3 marcelo andrade 31 81
+ 4 jonathan barbosa 17 95
+ 5 fernando barros 28 83
+ 6 gabriel batista 20 90
+ 7 pedro borges 18 88
+ 8 helena campos 17 60
+ 9 aurora cardoso 21 58
+ 10 laura carvalho 22 79
+ 11 maria castro 24  74
+ 12 miguel costa 26 68
+ 13 samuel dias 30 72
+ 14 julia duarte 29 56
+ 15 davi freitas 19 91
+ 16 matheus fernandes 18 87
+ 17 beatriz ferreira 21 69
+ 18 heitor garcia 32 70
+ 19 guilherme gomes 25 95
+ 20 ariel conçalves 25 60
