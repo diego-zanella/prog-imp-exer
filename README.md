@@ -42,7 +42,7 @@ Ponteiros: Passagem de parâmetros por referência em funções como somaIdades 
 
 Compile o código utilizando um compilador C (como o GCC):
 
-Bash
+
 
 gcc programa1.c -o programa1
 
@@ -50,7 +50,7 @@ Garanta que o ficheiro saida.bin foi gerado (ou utilize o código comentado no f
 
 Execute o binário:
 
-Bash
+
 
 ./programa1
 
